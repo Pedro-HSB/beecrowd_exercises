@@ -1,0 +1,5 @@
+n1=float(input())
+n2=float(input())
+n3=float(input())
+R=((n1*2)+(n2*3)+(n3*5))/(3*3.33)
+print(f"MEDIA = {R:.1f}")
